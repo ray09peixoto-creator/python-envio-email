@@ -1,20 +1,20 @@
-# Pesquisa sobre a biblioteca Pandas
+ Pesquisa sobre a biblioteca Pandas
 
-## 1. O que é o Pandas
+ 1. O que é o Pandas
 
 Pandas é uma biblioteca da linguagem Python utilizada para trabalhar e analisar dados de forma organizada.
 
-## 2. Principais estruturas de dados
+ 2. Principais estruturas de dados
 
-### DataFrame
+ DataFrame
 
 DataFrame é uma estrutura de dados bidimensional, semelhante a uma planilha ou a uma tabela de banco de dados.
 
-### Series
+ Series
 
 Series é uma estrutura de dados unidimensional, formada por valores e índices.
 
-## 3. Como criar uma Series
+ 3. Como criar uma Series
 
 Uma Series pode ser criada utilizando `pd.Series()`.
 
